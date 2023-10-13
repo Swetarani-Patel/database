@@ -340,7 +340,7 @@
         "userId": 2,
         "type": "Expense",
         "category": "Housing",
-        "amount": 800,
+        "amount": 900,
         "date": "2023-10-08"
       }
     ]
