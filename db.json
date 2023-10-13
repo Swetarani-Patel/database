@@ -294,6 +294,55 @@
         "status": false,
         "title": "Learn Angular"
       }
+    ],
+
+    "users": [
+      {
+        "id": 1,
+        "fullName": "John Doe",
+        "email": "john@gmail.com",
+        "password": "password123"
+      },
+      {
+        "id": 2,
+        "fullName": "Jane Smith",
+        "email": "jane@gmail.com",
+        "password": "securepass"
+      }
+    ],
+    "transactions": [
+      {
+        "id": 1,
+        "userId": 1,
+        "type": "Income",
+        "category": "Salary",
+        "amount": 5000,
+        "date": "2023-10-01"
+      },
+      {
+        "id": 2,
+        "userId": 1,
+        "type": "Expense",
+        "category": "Food & Drinks",
+        "amount": 50,
+        "date": "2023-10-05"
+      },
+      {
+        "id": 3,
+        "userId": 2,
+        "type": "Income",
+        "category": "Gifts",
+        "amount": 200,
+        "date": "2023-10-03"
+      },
+      {
+        "id": 4,
+        "userId": 2,
+        "type": "Expense",
+        "category": "Housing",
+        "amount": 800,
+        "date": "2023-10-08"
+      }
     ]
   }
 
